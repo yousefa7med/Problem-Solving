@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yousefa7med/Problem-Solving/tree/master/0039-combination-sum) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yousefa7med/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yousefa7med/Problem-Solving/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yousefa7med/Problem-Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
