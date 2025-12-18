@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yousefa7med/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yousefa7med/Problem-Solving/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yousefa7med/Problem-Solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yousefa7med/Problem-Solving/tree/master/0078-subsets) |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yousefa7med/Problem-Solving/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yousefa7med/Problem-Solving/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yousefa7med/Problem-Solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
